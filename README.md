@@ -1,6 +1,4 @@
 # Recurrent Neural Networks for Predictive Maintenance
-* Author: Umberto Griffo
-* Twitter: @UmbertoGriffo
 
 ## Colab
 You can try the code directly on [Colab](https://colab.research.google.com/drive/1tjIOud2Cc6smmvZsbl-QDBA6TLA2iEtd).
